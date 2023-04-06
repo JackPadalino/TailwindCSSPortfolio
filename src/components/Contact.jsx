@@ -8,7 +8,7 @@ const Contact = () => {
         <form
           action="#"
           method="POST"
-          className="flex flex-col w-full max-sm:mx-5 max-md:mx-5 md:w-1/3"
+          className="flex flex-col w-full max-sm:mx-5 max-md:mx-5 md:w-2/3"
         >
           <Title>Contact</Title>
           <input
